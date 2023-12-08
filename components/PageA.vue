@@ -1,0 +1,13 @@
+<template>
+  <section>
+    <h1>PageA</h1>
+    <h2>このページはリストを表示する</h2>
+    <ul>
+      <li>柳</li>
+      <li>渡邊</li>
+      <li>坪井</li>
+      <li>小宮</li>
+      <li>中野</li>
+    </ul>
+  </section>
+</template>

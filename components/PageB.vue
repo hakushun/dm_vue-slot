@@ -1,0 +1,36 @@
+<template>
+  <section>
+    <h1>PageB</h1>
+    <h2>このページは表を表示する</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>所属</th>
+          <th>名前</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>新規</td>
+          <td>柳</td>
+        </tr>
+        <tr>
+          <td>新規</td>
+          <td>渡邊</td>
+        </tr>
+        <tr>
+          <td>継続</td>
+          <td>坪井</td>
+        </tr>
+        <tr>
+          <td>CRE</td>
+          <td>小宮</td>
+        </tr>
+        <tr>
+          <td>継続</td>
+          <td>中野</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</template>
